@@ -32,9 +32,7 @@ window.addEventListener('appinstalled', (event) => {
 
 
 ////////////////////////////////////////////////
-///////////////////////////////////////////////
-//MY NOTES ARE EVERYTHING BELOW //MY NOTES ARE EVERYTHING BELOW TO THE BOTTOM1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-//MY NOTES ARE EVERYTHING BELOW //MY NOTES ARE EVERYTHING BELOWTO THE BOTTOM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 //SERVICE WORKER  SERVICE WORKER  SERVICE WORKER
 
 // const CACHE_NAME='cache-v1'
